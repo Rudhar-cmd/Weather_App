@@ -1,7 +1,7 @@
-<img width="1131" height="657" alt="Screenshot 2025-11-30 at 6 53 59 PM" src="https://github.com/user-attachments/assets/6b1f1929-8e0b-43e3-bbfa-a056cba93524" /># Weather App (React + OpenWeatherMap API)
+# Weather App (React + OpenWeatherMap API)
+
 
 ## UI/UX
-
 
 <img width="1131" height="657" alt="Screenshot 2025-11-30 at 6 53 59 PM" src="https://github.com/user-attachments/assets/3a2b582f-7897-4d9d-9fc8-a9075ba54a83" />
 
