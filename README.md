@@ -47,7 +47,7 @@
 # Installation
 - Clone the Repository:
   - ```bash
-    git clone https://github.com/Rudhar-cmd/My-Weather-App.git
+    git clone https://github.com/Rudhar-cmd/Weather_App.git
     ```
 - Navigate to Project Directory:
   - ```bash
