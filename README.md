@@ -1,12 +1,10 @@
-# Weather App (React + OpenWeatherMap API)
+<img width="1131" height="657" alt="Screenshot 2025-11-30 at 6 53 59 PM" src="https://github.com/user-attachments/assets/6b1f1929-8e0b-43e3-bbfa-a056cba93524" /># Weather App (React + OpenWeatherMap API)
 
 ## UI/UX
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1fdf6b74-c116-46ef-ad19-6c8423fa9db2" 
-       alt="Weather App Demo" width="300" />
-</p>
+<img width="1131" height="657" alt="Screenshot 2025-11-30 at 6 53 59 PM" src="https://github.com/user-attachments/assets/3a2b582f-7897-4d9d-9fc8-a9075ba54a83" />
+
 
 
 - Description:
@@ -90,9 +88,4 @@
 
 # Author
 - Rudhar
-
-# Preview
-
-![ScreenRecording2025-11-08at8 34 02PM-ezgif com-speed](https://github.com/user-attachments/assets/5e18319a-6e71-4803-bb92-059610c3ef7c)
-
 
